@@ -11,4 +11,8 @@ Class distribution:
 0: Legitimate transactions (284,315)
 1: Fraudulent transactions (492)
 
-# Test Accuracy : 96.45%
+This project primarily uses Logistic Regression for the classification of transactions as fraudulent or legitimate. 
+
+# Test Accuracy : 95.94%
+
+The Logistic Regression model achieved a high level of accuracy in detecting fraudulent transactions. Further improvements could be made by experimenting with other algorithms like Random Forest, XGBoost, or even deep learning models.
